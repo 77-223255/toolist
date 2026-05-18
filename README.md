@@ -1,25 +1,11 @@
 # toolist
 
-A Python-based abstract avatar generator using recursive rectangle partitioning and matplotlib colormaps.
+基于 Python 的抽象头像生成器，通过递归矩形分割与 matplotlib 色图着色。
 
-## Features
+## 参考
 
-- **6 splitting algorithms**: random, average, complete_down, complete_line, mondrian, vertical_horizontal
-- **100+ colormaps** from matplotlib for region coloring
-- **Real-time preview** via Tkinter GUI
-- **Export** to common image formats
-
-## Usage
-
-```bash
-python avatar_generator.py
-```
-
-Configure algorithm, split count, colormap, and canvas size through the GUI, then export.
-
-## References
-
-- [matplotlib colormaps](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
-- [Pillow (PIL)](https://python-pillow.org/)
-- [Mondrian-style generative art](https://en.wikipedia.org/wiki/Piet_Mondrian)
-- [Tkinter GUI framework](https://docs.python.org/3/library/tkinter.html)
+- [Pillow (PIL Fork)](https://github.com/python-pillow/Pillow)
+- [matplotlib](https://github.com/matplotlib/matplotlib)
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+- [77-223255/homework](https://github.com/77-223255/homework)
+- [77-223255/VTS](https://github.com/77-223255/VTS)
