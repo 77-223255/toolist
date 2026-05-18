@@ -34,8 +34,3 @@ python avatar_generator.py
 
 在 GUI 中选择算法、分割次数、色图，点击生成后导出。
 
-## 参考
-
-- [Pillow (PIL Fork)](https://github.com/python-pillow/Pillow)
-- [matplotlib](https://github.com/matplotlib/matplotlib)
-- [77-223255/homework](https://github.com/77-223255/homework)
